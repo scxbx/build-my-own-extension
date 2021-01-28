@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "startbit": "github:hiwonder/startbit#0d4df5c81a6cf4d1d28aa5512153d09a297d97d5"
     },
     "files": [
         "main.blocks",
